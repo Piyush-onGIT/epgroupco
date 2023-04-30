@@ -1,0 +1,3 @@
+wp-json
+wp-includes
+wp-content
